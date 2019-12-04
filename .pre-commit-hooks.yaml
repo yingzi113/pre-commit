@@ -197,6 +197,6 @@
     description: Check commit message.
     entry: check-commit-message
     language: python
-    types: [text]
-    stages: [commit, push, manual]
+    types: [python]
+
 
